@@ -1,0 +1,32 @@
+
+#top-left{
+  height: 322px;
+  width: 125px;
+  background-color: blue;
+  border: 3px solid black;
+  border-left: 10px solid black;
+  display: inline-block;
+}
+#top{
+  height: 75px;
+  width: 425px;
+  background-color: yellow;
+  border-top: 3px solid black;
+  border: -5px
+  display: inline-block;
+
+}
+#middle-left{
+  height: 198px;
+  width: 325px;
+  background-color: red;
+  border: 2px solid black;
+  diplay: block
+}
+#bottom-left{
+  height: 123px;
+  width: 200px;
+  border: 2px solid black;
+  border-top: 6px solid black;
+  display: block;
+}
